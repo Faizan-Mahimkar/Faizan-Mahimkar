@@ -1,5 +1,6 @@
 <h1 align="center">Hi 😀, I'm Faizan Mahimkar</h1>
-<h3 align="center">Passionate to build tech stuff and learn new things. I'm excited to learn more about CyberSecurity and Artificial Intelligence  </h3>
+<h2 align="center">Passionate to build technical stuff and learn new things. I am excited to learn more about CyberSecurity and Artificial Intelligence </h2>
+<h3 align="center">In college, your GPA stands for 'Goodbye, Personal Achievement.</h3>
 <h4 align="center"> Once a Legend Said: "Life is a sexually transmitted disease and the mortality rate is one hundred percent."</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Faizan-Mahimkar&label=Profile%20views&color=0e75b6&style=flat" alt="Faizan-Mahimkar" /> </p>
